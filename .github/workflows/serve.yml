@@ -23,7 +23,7 @@ jobs:
       - id: check
         run: |
           new=$(curl -fsS --retry 3 --max-time 20 https://ainews-site.ainews-bot.workers.dev/version.json | jq -r .v)
-          old=$(curl -fsS --max-time 20 https://leks2000.github.io/version.json 2>/dev/null | jq -r .v 2>/dev/null || true)
+          old=$(curl -fsS --max-time 20 https://scraimbled.github.io/version.json 2>/dev/null | jq -r .v 2>/dev/null || true)
           echo "на сковородке $new, на тарелке ${old:-пусто}"
           if [ -n "$new" ] && { [ "$new" != "$old" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; }; then
             echo "fresh=yes" >> "$GITHUB_OUTPUT"
