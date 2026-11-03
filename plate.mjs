@@ -6,8 +6,10 @@ import { dirname, join } from 'node:path';
 
 const PAN = process.env.PAN ?? 'https://ainews-site.ainews-bot.workers.dev';
 const OUT = process.argv[2] ?? '_site';
+// Ключ IndexNow (src/indexnow.ts сковородки): Яндекс и Bing сверяют его в корне зеркала
+const INDEXNOW = '/c93be77c9317da86e0ce90de6970cfa2.txt';
 const START = ['/', '/en/', '/404.html', '/search.json', '/rss.xml', '/en/rss.xml', '/sitemap.xml', '/robots.txt', '/version.json',
-  '/favicon.svg', '/favicon.ico', '/apple-touch-icon.png', '/og.png'];
+  '/favicon.svg', '/favicon.ico', '/apple-touch-icon.png', '/og.png', INDEXNOW];
 const PARALLEL = 6;
 
 const fileOf = p => (p.endsWith('/') ? `${p}index.html` : /\.[a-z0-9]+$/i.test(p) ? p : `${p}.html`);
