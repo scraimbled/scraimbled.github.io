@@ -1,0 +1,24 @@
+# Подогрев: GitHub выключает расписание в публичном репозитории, где 60 дней не было коммитов.
+# Раз в месяц тарелку подогреваем коммитом, чтобы подача не остыла.
+name: Подогрев
+
+on:
+  schedule:
+    - cron: "17 3 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  heat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: |
+          date -u +%Y-%m-%dT%H:%M:%SZ > .heat
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .heat
+          git commit -m "Подогрев тарелки"
+          git push

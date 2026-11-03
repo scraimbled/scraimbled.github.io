@@ -1,0 +1,52 @@
+# Подача: раз в 10 минут смотрим, не поменялось ли что на сковородке, и если да — подаём на тарелку заново.
+name: Подача
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  look:
+    name: Что на сковородке
+    runs-on: ubuntu-latest
+    outputs:
+      fresh: ${{ steps.check.outputs.fresh }}
+    steps:
+      - id: check
+        run: |
+          new=$(curl -fsS --retry 3 --max-time 20 https://ainews-site.ainews-bot.workers.dev/version.json | jq -r .v)
+          old=$(curl -fsS --max-time 20 https://leks2000.github.io/version.json 2>/dev/null | jq -r .v 2>/dev/null || true)
+          echo "на сковородке $new, на тарелке ${old:-пусто}"
+          if [ -n "$new" ] && { [ "$new" != "$old" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; }; then
+            echo "fresh=yes" >> "$GITHUB_OUTPUT"
+          else
+            echo "fresh=no" >> "$GITHUB_OUTPUT"
+          fi
+
+  serve:
+    name: Подать на тарелку
+    needs: look
+    if: needs.look.outputs.fresh == 'yes'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+      - run: node plate.mjs _site
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
