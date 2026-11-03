@@ -3,7 +3,8 @@ name: Подача
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    # Не ровно в начале часа: в эти минуты GitHub чаще всего пропускает запуски по расписанию
+    - cron: "4-59/10 * * * *"
   workflow_dispatch:
 
 permissions:
