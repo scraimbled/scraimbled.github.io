@@ -6,7 +6,7 @@ import { dirname, join } from 'node:path';
 
 const PAN = process.env.PAN ?? 'https://ainews-site.ainews-bot.workers.dev';
 const OUT = process.argv[2] ?? '_site';
-const START = ['/', '/en/', '/404.html', '/rss.xml', '/en/rss.xml', '/sitemap.xml', '/robots.txt', '/version.json',
+const START = ['/', '/en/', '/404.html', '/search.json', '/rss.xml', '/en/rss.xml', '/sitemap.xml', '/robots.txt', '/version.json',
   '/favicon.svg', '/favicon.ico', '/apple-touch-icon.png', '/og.png'];
 const PARALLEL = 6;
 
