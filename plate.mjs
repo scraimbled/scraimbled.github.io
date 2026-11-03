@@ -6,7 +6,7 @@ import { dirname, join } from 'node:path';
 
 const PAN = process.env.PAN ?? 'https://ainews-site.ainews-bot.workers.dev';
 const OUT = process.argv[2] ?? '_site';
-const START = ['/', '/en/', '/rss.xml', '/en/rss.xml', '/sitemap.xml', '/robots.txt', '/version.json',
+const START = ['/', '/en/', '/404.html', '/rss.xml', '/en/rss.xml', '/sitemap.xml', '/robots.txt', '/version.json',
   '/favicon.svg', '/favicon.ico', '/apple-touch-icon.png', '/og.png'];
 const PARALLEL = 6;
 
@@ -46,7 +46,9 @@ async function take(path) {
     if (to?.startsWith('/') && !seen.has(to)) queue.push(to);
     return;
   }
-  if (!r.ok) {
+  // Своя страница 404 приходит с кодом 404, но кладётся как обычная, со всеми её стилями: GitHub Pages отдаёт её на любой неизвестный адрес
+  const notFoundPage = path === '/404.html' && r.status === 404;
+  if (!r.ok && !notFoundPage) {
     broken.push(`${r.status} ${path}`);
     return;
   }
@@ -67,10 +69,6 @@ while (queue.length) {
   await Promise.all(batch);
 }
 
-// Своя страница 404: GitHub Pages отдаёт её на любой неизвестный адрес
-const nf = await get('/404.html');
-if (nf.status !== 404) broken.push(`${nf.status} /404.html`);
-else writeFileSync(join(OUT, '404.html'), Buffer.from(await nf.arrayBuffer()));
 // Файлы подаются как есть, без обработки Jekyll
 writeFileSync(join(OUT, '.nojekyll'), '');
 
