@@ -31,7 +31,8 @@ async function get(path) {
 // Ссылки на свои адреса: из HTML (href, src), из CSS (url()), из sitemap (<loc> с любым доменом)
 function links(type, text) {
   const out = [];
-  if (type.includes('html')) for (const m of text.matchAll(/(?:href|src)="(\/[^"#?]*)"/g)) out.push(m[1]);
+  // Хвост после # или ? отбрасывается: спрайт иконок идёт как /s/i.svg#i-sun
+  if (type.includes('html')) for (const m of text.matchAll(/(?:href|src)="(\/[^"#?]*)[^"]*"/g)) out.push(m[1]);
   if (type.includes('css')) for (const m of text.matchAll(/url\((\/[^)?#]+)\)/g)) out.push(m[1]);
   if (type.includes('xml')) for (const m of text.matchAll(/<loc>https?:\/\/[^/<]+(\/[^<]*)<\/loc>/g)) out.push(m[1]);
   return out.filter(p => !p.startsWith('//'));
