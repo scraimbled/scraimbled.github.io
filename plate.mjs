@@ -28,16 +28,18 @@ async function get(path) {
   }
 }
 
-// Ссылки на свои адреса: из HTML (href, src, og:image), из CSS (url()), из sitemap (<loc> с любым доменом)
+// Ссылки на свои адреса: из HTML (href, src, srcset, og:image), из CSS (url()), из sitemap (<loc> с любым доменом)
 function links(type, text) {
   const out = [];
   // Хвост после # или ? отбрасывается: спрайт иконок идёт как /s/i.svg#i-sun
   if (type.includes('html')) for (const m of text.matchAll(/(?:href|src)="(\/[^"#?]*)[^"]*"/g)) out.push(m[1]);
+  // Уменьшенные картинки для телефона: srcset="/img/1-a-m.jpg 800w, /img/1-a.jpg 1200w"
+  if (type.includes('html')) for (const m of text.matchAll(/srcset="([^"]+)"/g)) for (const part of m[1].split(',')) out.push(part.trim().split(/[\s?#]/)[0]);
   // Картинка для соцсетей указана полным адресом зеркала (og:image): своя у сервисов и тем
   if (type.includes('html')) for (const m of text.matchAll(/property="og:image" content="https?:\/\/[^/"]+(\/[^"#?]*)"/g)) out.push(m[1]);
   if (type.includes('css')) for (const m of text.matchAll(/url\((\/[^)?#]+)\)/g)) out.push(m[1]);
   if (type.includes('xml')) for (const m of text.matchAll(/<loc>https?:\/\/[^/<]+(\/[^<]*)<\/loc>/g)) out.push(m[1]);
-  return out.filter(p => !p.startsWith('//'));
+  return out.filter(p => p.startsWith('/') && !p.startsWith('//'));
 }
 
 const seen = new Set(), queue = [...START], broken = [];
