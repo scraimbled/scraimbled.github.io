@@ -40,12 +40,23 @@ jobs:
     permissions:
       pages: write
       id-token: write
+      contents: write
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
       - run: node plate.mjs _site
+      # README со свежими постами: Google часто обходит github.com и находит по ссылкам новые страницы
+      - name: README со свежими постами
+        run: |
+          node readme.mjs _site
+          if ! git diff --quiet README.md; then
+            git config user.name "ScrAImbled"
+            git config user.email "scraimbled@users.noreply.github.com"
+            git commit -qm "Свежие новости в README" README.md
+            git pull -q --rebase && git push -q || echo "README не запушен, будет в следующей подаче"
+          fi
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _site
