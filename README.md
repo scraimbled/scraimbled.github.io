@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-16 · [Claude Code получил Code Mode для экономии токенов](https://scraimbled.github.io/news/103-claude-code-poluchil-code-mode-dlya-ekonomii-tokenov)
 - 2026-11-16 · [Claude Fable 5.2 рисует изображения с помощью кода Python](https://scraimbled.github.io/news/101-claude-fable-5-2-risuet-izobrazheniya-s-pomoshchyu-koda)
 - 2026-11-15 · [Qwen 4 Max доступен бесплатно до 25 ноября](https://scraimbled.github.io/news/99-qwen-4-max-dostupen-besplatno-do-25-noyabrya)
 - 2026-11-15 · [Илон Маск уволил половину команды Grok Imagine](https://scraimbled.github.io/news/98-ilon-mask-uvolil-polovinu-komandy-grok-imagine)
@@ -27,12 +28,12 @@
 - 2026-11-12 · [В РФ готовы нанять Хуанга для разработки процессоров](https://scraimbled.github.io/news/79-v-rf-gotovy-nanyat-khuanga-dlya-razrabotki-protsessorov)
 - 2026-11-12 · [Numes.ai предоставляет бесплатный доступ к 156 моделям](https://scraimbled.github.io/news/78-numes-ai-predostavlyaet-besplatnyy-dostup-k-156-modelyam)
 - 2026-11-12 · [ACE Music v1 стала бесплатной и понимает русский язык](https://scraimbled.github.io/news/75-ace-music-v1-stala-besplatnoy-i-ponimaet-russkiy-yazyk)
-- 2026-11-12 · [Anthropic обнулила лимиты Claude в связи с релизом Fable 5.2](https://scraimbled.github.io/news/73-anthropic-obnulila-limity-claude-v-svyazi-s-relizom-fable-5)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-16 · [Claude Code gets Code Mode to save tokens](https://scraimbled.github.io/en/news/103-claude-code-gets-code-mode-to-save-tokens)
 - 2026-11-16 · [Claude Fable 5.2 paints images using Python code](https://scraimbled.github.io/en/news/101-claude-fable-5-2-paints-images-using-python-code)
 - 2026-11-15 · [Qwen 4 Max is available for free until November 25](https://scraimbled.github.io/en/news/99-qwen-4-max-is-available-for-free-until-november-25)
 - 2026-11-15 · [Elon Musk fired half of the Grok Imagine team](https://scraimbled.github.io/en/news/98-elon-musk-fired-half-of-the-grok-imagine-team)
@@ -42,6 +43,5 @@
 - 2026-11-14 · [Meta released Muse to make calls to businesses](https://scraimbled.github.io/en/news/93-meta-released-muse-to-make-calls-to-businesses)
 - 2026-11-14 · [Claude Code added Code Mode for parallel tool calls](https://scraimbled.github.io/en/news/91-claude-code-added-code-mode-for-parallel-tool-calls)
 - 2026-11-14 · [OpenAI launched Dots wallet for its agents](https://scraimbled.github.io/en/news/90-openai-launched-dots-wallet-for-its-agents)
-- 2026-11-13 · [Sber launched the first AI agent certification in Russia](https://scraimbled.github.io/en/news/88-sber-launched-the-first-ai-agent-certification-in-russia)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
