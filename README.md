@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-17 · [Tencent выпустила Hy4 flash с контекстом 1M токенов](https://scraimbled.github.io/news/111-tencent-vypustila-hy4-flash-s-kontekstom-1m-tokenov)
 - 2026-11-17 · [Разработчик собрал подборку нейросетей без цензуры](https://scraimbled.github.io/news/110-razrabotchik-sobral-podborku-neyrosetey-bez-tsenzury)
 - 2026-11-17 · [Apple ввела лимиты на функции Siri в iOS 27.3](https://scraimbled.github.io/news/109-apple-vvela-limity-na-funktsii-siri-v-ios-27-3)
 - 2026-11-17 · [США вводят лицензии на поставку чипов в ряд стран](https://scraimbled.github.io/news/108-ssha-vvodyat-litsenzii-na-postavku-chipov-v-ryad-stran)
@@ -27,12 +28,12 @@
 - 2026-11-13 · [Сбер запустил первую в РФ сертификацию по ИИ-агентам](https://scraimbled.github.io/news/88-sber-zapustil-pervuyu-v-rf-sertifikatsiyu-po-ii-agentam)
 - 2026-11-13 · [Google выпустила модель Hydrogen для быстрых задач](https://scraimbled.github.io/news/87-google-vypustila-model-hydrogen-dlya-bystrykh-zadach)
 - 2026-11-13 · [Окак, Anthropic добавила Claude прямо в видеозвонки](https://scraimbled.github.io/news/86-okak-anthropic-dobavila-claude-pryamo-v-videozvonki)
-- 2026-11-13 · [Claude походу прилег отдохнуть, у всех всё сломалось](https://scraimbled.github.io/news/85-claude-pokhodu-prileg-otdokhnut-u-vsekh-vse-slomalos)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-17 · [Tencent released Hy4 flash with 1M context window](https://scraimbled.github.io/en/news/111-tencent-released-hy4-flash-with-1m-context-window)
 - 2026-11-17 · [Developer compiled a collection of uncensored AI models](https://scraimbled.github.io/en/news/110-developer-compiled-a-collection-of-uncensored-ai-models)
 - 2026-11-17 · [Apple introduced Siri limits in iOS 27.3](https://scraimbled.github.io/en/news/109-apple-introduced-siri-limits-in-ios-27-3)
 - 2026-11-17 · [US introduces chip supply licenses to several countries](https://scraimbled.github.io/en/news/108-us-introduces-chip-supply-licenses-to-several-countries)
@@ -42,6 +43,5 @@
 - 2026-11-16 · [Claude Code gets Code Mode to save tokens](https://scraimbled.github.io/en/news/103-claude-code-gets-code-mode-to-save-tokens)
 - 2026-11-16 · [Claude Fable 5.2 paints images using Python code](https://scraimbled.github.io/en/news/101-claude-fable-5-2-paints-images-using-python-code)
 - 2026-11-15 · [Qwen 4 Max is available for free until November 25](https://scraimbled.github.io/en/news/99-qwen-4-max-is-available-for-free-until-november-25)
-- 2026-11-15 · [Elon Musk fired half of the Grok Imagine team](https://scraimbled.github.io/en/news/98-elon-musk-fired-half-of-the-grok-imagine-team)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
