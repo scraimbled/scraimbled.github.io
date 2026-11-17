@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-17 · [Калифорния подала в суд на OpenAI из-за взломов](https://scraimbled.github.io/news/114-kaliforniya-podala-v-sud-na-openai-iz-za-vzlomov)
 - 2026-11-17 · [Google и DeepSeek массово не открываются в РФ](https://scraimbled.github.io/news/112-google-i-deepseek-massovo-ne-otkryvayutsya-v-rf)
 - 2026-11-17 · [Tencent выпустила Hy4 flash с контекстом 1M токенов](https://scraimbled.github.io/news/111-tencent-vypustila-hy4-flash-s-kontekstom-1m-tokenov)
 - 2026-11-17 · [Разработчик собрал подборку нейросетей без цензуры](https://scraimbled.github.io/news/110-razrabotchik-sobral-podborku-neyrosetey-bez-tsenzury)
@@ -27,12 +28,12 @@
 - 2026-11-14 · [Claude Code добавил Code Mode для параллельных вызовов](https://scraimbled.github.io/news/91-claude-code-dobavil-code-mode-dlya-parallelnykh-vyzovov)
 - 2026-11-14 · [OpenAI запустила кошелек Dots для своих агентов](https://scraimbled.github.io/news/90-openai-zapustila-koshelek-dots-dlya-svoikh-agentov)
 - 2026-11-13 · [Сбер запустил первую в РФ сертификацию по ИИ-агентам](https://scraimbled.github.io/news/88-sber-zapustil-pervuyu-v-rf-sertifikatsiyu-po-ii-agentam)
-- 2026-11-13 · [Google выпустила модель Hydrogen для быстрых задач](https://scraimbled.github.io/news/87-google-vypustila-model-hydrogen-dlya-bystrykh-zadach)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-17 · [California sues OpenAI over hacking incidents](https://scraimbled.github.io/en/news/114-california-sues-openai-over-hacking-incidents)
 - 2026-11-17 · [Google and DeepSeek are massy unavailable in Russia](https://scraimbled.github.io/en/news/112-google-and-deepseek-are-massy-unavailable-in-russia)
 - 2026-11-17 · [Tencent released Hy4 flash with 1M context window](https://scraimbled.github.io/en/news/111-tencent-released-hy4-flash-with-1m-context-window)
 - 2026-11-17 · [Developer compiled a collection of uncensored AI models](https://scraimbled.github.io/en/news/110-developer-compiled-a-collection-of-uncensored-ai-models)
@@ -42,6 +43,5 @@
 - 2026-11-16 · [DeepSeek introduced message and chat history limits](https://scraimbled.github.io/en/news/106-deepseek-introduced-message-and-chat-history-limits)
 - 2026-11-16 · [Alibaba released Qwen4-Max with 1M context window](https://scraimbled.github.io/en/news/104-alibaba-released-qwen4-max-with-1m-context-window)
 - 2026-11-16 · [Claude Code gets Code Mode to save tokens](https://scraimbled.github.io/en/news/103-claude-code-gets-code-mode-to-save-tokens)
-- 2026-11-16 · [Claude Fable 5.2 paints images using Python code](https://scraimbled.github.io/en/news/101-claude-fable-5-2-paints-images-using-python-code)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
