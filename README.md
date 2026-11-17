@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-17 · [США вводят лицензии на поставку чипов в ряд стран](https://scraimbled.github.io/news/108-ssha-vvodyat-litsenzii-na-postavku-chipov-v-ryad-stran)
 - 2026-11-16 · [Утечка Gemini 4 Krypton с генерацией 3D и звука](https://scraimbled.github.io/news/105-utechka-gemini-4-krypton-s-generatsiey-3d-i-zvuka)
 - 2026-11-16 · [DeepSeek ввел лимиты на сообщения и историю диалогов](https://scraimbled.github.io/news/106-deepseek-vvel-limity-na-soobshcheniya-i-istoriyu-dialogov)
 - 2026-11-16 · [Alibaba представила Qwen4-Max с контекстом 1 млн токенов](https://scraimbled.github.io/news/104-alibaba-predstavila-qwen4-max-s-kontekstom-1-mln-tokenov)
@@ -27,12 +28,12 @@
 - 2026-11-13 · [Claude походу прилег отдохнуть, у всех всё сломалось](https://scraimbled.github.io/news/85-claude-pokhodu-prileg-otdokhnut-u-vsekh-vse-slomalos)
 - 2026-11-13 · [РКН потратит 2,27 млрд рублей на ИИ для поиска VPN](https://scraimbled.github.io/news/83-rkn-potratit-2-27-mlrd-rubley-na-ii-dlya-poiska-vpn)
 - 2026-11-13 · [Amazon дает новичкам до 200 долларов кредитов AWS](https://scraimbled.github.io/news/82-amazon-daet-novichkam-do-200-dollarov-kreditov-aws)
-- 2026-11-12 · [Luma AI представила функции Character Swap и Insert](https://scraimbled.github.io/news/80-luma-ai-predstavila-funktsii-character-swap-i-insert)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-17 · [US introduces chip supply licenses to several countries](https://scraimbled.github.io/en/news/108-us-introduces-chip-supply-licenses-to-several-countries)
 - 2026-11-16 · [Gemini 4 Krypton leak with 3D and sound generation](https://scraimbled.github.io/en/news/105-gemini-4-krypton-leak-with-3d-and-sound-generation)
 - 2026-11-16 · [DeepSeek introduced message and chat history limits](https://scraimbled.github.io/en/news/106-deepseek-introduced-message-and-chat-history-limits)
 - 2026-11-16 · [Alibaba released Qwen4-Max with 1M context window](https://scraimbled.github.io/en/news/104-alibaba-released-qwen4-max-with-1m-context-window)
@@ -42,6 +43,5 @@
 - 2026-11-15 · [Elon Musk fired half of the Grok Imagine team](https://scraimbled.github.io/en/news/98-elon-musk-fired-half-of-the-grok-imagine-team)
 - 2026-11-15 · [Researcher reports growth in Anthropic training efficiency](https://scraimbled.github.io/en/news/96-researcher-reports-growth-in-anthropic-training-efficiency)
 - 2026-11-15 · [Anthropic says old prompts slow down Opus 5.5](https://scraimbled.github.io/en/news/95-anthropic-says-old-prompts-slow-down-opus-5-5)
-- 2026-11-14 · [Thinking Machines released Inkling 2 Small model](https://scraimbled.github.io/en/news/94-thinking-machines-released-inkling-2-small-model)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
