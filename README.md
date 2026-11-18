@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-18 · [Хакеры взломали NVIDIA и планируют утечку данных](https://scraimbled.github.io/news/122-khakery-vzlomali-nvidia-i-planiruyut-utechku-dannykh)
 - 2026-11-18 · [Обновление GPT-6.2 снизило цены на Astra на 20%](https://scraimbled.github.io/news/120-obnovlenie-gpt-6-2-snizilo-tseny-na-astra-na-20)
 - 2026-11-18 · [Spark переименовали в Tasks и сделали бесплатным](https://scraimbled.github.io/news/119-spark-pereimenovali-v-tasks-i-sdelali-besplatnym)
 - 2026-11-17 · [Оплата ИИ в Telegram ботах теперь только через Stars](https://scraimbled.github.io/news/115-oplata-ii-v-telegram-botakh-teper-tolko-cherez-stars)
@@ -27,12 +28,12 @@
 - 2026-11-15 · [Исследователь сообщил о росте эффективности обучения Anthropic](https://scraimbled.github.io/news/96-issledovatel-soobshchil-o-roste-effektivnosti-obucheniya)
 - 2026-11-15 · [Anthropic утверждает что старые промпты замедляют Opus 5.5](https://scraimbled.github.io/news/95-anthropic-utverzhdaet-chto-starye-prompty-zamedlyayut-opus)
 - 2026-11-14 · [Thinking Machines выпустила модель Inkling 2 Small](https://scraimbled.github.io/news/94-thinking-machines-vypustila-model-inkling-2-small)
-- 2026-11-14 · [Meta выпустила Muse для совершения звонков в компании](https://scraimbled.github.io/news/93-meta-vypustila-muse-dlya-soversheniya-zvonkov-v-kompanii)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-18 · [Hackers hacked NVIDIA and plan to leak data](https://scraimbled.github.io/en/news/122-hackers-hacked-nvidia-and-plan-to-leak-data)
 - 2026-11-18 · [GPT-6.2 update reduced Astra prices by 20%](https://scraimbled.github.io/en/news/120-gpt-6-2-update-reduced-astra-prices-by-20)
 - 2026-11-18 · [Spark renamed to Tasks and became free](https://scraimbled.github.io/en/news/119-spark-renamed-to-tasks-and-became-free)
 - 2026-11-17 · [AI payments in Telegram bots now only via Stars](https://scraimbled.github.io/en/news/115-ai-payments-in-telegram-bots-now-only-via-stars)
@@ -42,6 +43,5 @@
 - 2026-11-17 · [Developer compiled a collection of uncensored AI models](https://scraimbled.github.io/en/news/110-developer-compiled-a-collection-of-uncensored-ai-models)
 - 2026-11-17 · [Apple introduced Siri limits in iOS 27.3](https://scraimbled.github.io/en/news/109-apple-introduced-siri-limits-in-ios-27-3)
 - 2026-11-17 · [US introduces chip supply licenses to several countries](https://scraimbled.github.io/en/news/108-us-introduces-chip-supply-licenses-to-several-countries)
-- 2026-11-16 · [Gemini 4 Krypton leak with 3D and sound generation](https://scraimbled.github.io/en/news/105-gemini-4-krypton-leak-with-3d-and-sound-generation)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
