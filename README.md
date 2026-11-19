@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-19 · [Google представила модель Gemini 4 Neon](https://scraimbled.github.io/news/124-google-predstavila-model-gemini-4-neon)
 - 2026-11-18 · [Физик столкнулся с региональным баном Claude](https://scraimbled.github.io/news/121-fizik-stolknulsya-s-regionalnym-banom-claude)
 - 2026-11-18 · [Хакеры взломали NVIDIA и планируют утечку данных](https://scraimbled.github.io/news/122-khakery-vzlomali-nvidia-i-planiruyut-utechku-dannykh)
 - 2026-11-18 · [Обновление GPT-6.2 снизило цены на Astra на 20%](https://scraimbled.github.io/news/120-obnovlenie-gpt-6-2-snizilo-tseny-na-astra-na-20)
@@ -27,12 +28,12 @@
 - 2026-11-15 · [Qwen 4 Max доступен бесплатно до 25 ноября](https://scraimbled.github.io/news/99-qwen-4-max-dostupen-besplatno-do-25-noyabrya)
 - 2026-11-15 · [Илон Маск уволил половину команды Grok Imagine](https://scraimbled.github.io/news/98-ilon-mask-uvolil-polovinu-komandy-grok-imagine)
 - 2026-11-15 · [Исследователь сообщил о росте эффективности обучения Anthropic](https://scraimbled.github.io/news/96-issledovatel-soobshchil-o-roste-effektivnosti-obucheniya)
-- 2026-11-15 · [Anthropic утверждает что старые промпты замедляют Opus 5.5](https://scraimbled.github.io/news/95-anthropic-utverzhdaet-chto-starye-prompty-zamedlyayut-opus)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-19 · [Google introduced the Gemini 4 Neon model](https://scraimbled.github.io/en/news/124-google-introduced-the-gemini-4-neon-model)
 - 2026-11-18 · [Physicist encountered a regional ban on Claude](https://scraimbled.github.io/en/news/121-physicist-encountered-a-regional-ban-on-claude)
 - 2026-11-18 · [Hackers hacked NVIDIA and plan to leak data](https://scraimbled.github.io/en/news/122-hackers-hacked-nvidia-and-plan-to-leak-data)
 - 2026-11-18 · [GPT-6.2 update reduced Astra prices by 20%](https://scraimbled.github.io/en/news/120-gpt-6-2-update-reduced-astra-prices-by-20)
@@ -42,6 +43,5 @@
 - 2026-11-17 · [Google and DeepSeek are massy unavailable in Russia](https://scraimbled.github.io/en/news/112-google-and-deepseek-are-massy-unavailable-in-russia)
 - 2026-11-17 · [Tencent released Hy4 flash with 1M context window](https://scraimbled.github.io/en/news/111-tencent-released-hy4-flash-with-1m-context-window)
 - 2026-11-17 · [Developer compiled a collection of uncensored AI models](https://scraimbled.github.io/en/news/110-developer-compiled-a-collection-of-uncensored-ai-models)
-- 2026-11-17 · [Apple introduced Siri limits in iOS 27.3](https://scraimbled.github.io/en/news/109-apple-introduced-siri-limits-in-ios-27-3)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
