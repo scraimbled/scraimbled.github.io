@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-19 · [ИТМО пишет, что наши ИИ проигрывают из-за нехватки данных](https://scraimbled.github.io/news/129-itmo-pishet-chto-nashi-ii-proigryvayut-iz-za-nekhvatki)
 - 2026-11-19 · [Suno открыла доступ к MCP-серверу для Claude и ChatGPT](https://scraimbled.github.io/news/127-suno-otkryla-dostup-k-mcp-serveru-dlya-claude-i-chatgpt)
 - 2026-11-19 · [В NGINX нашли критические уязвимости для захвата сервера](https://scraimbled.github.io/news/126-v-nginx-nashli-kriticheskie-uyazvimosti-dlya-zakhvata)
 - 2026-11-19 · [Google представила модель Gemini 4 Neon](https://scraimbled.github.io/news/124-google-predstavila-model-gemini-4-neon)
@@ -27,12 +28,12 @@
 - 2026-11-16 · [Alibaba представила Qwen4-Max с контекстом 1 млн токенов](https://scraimbled.github.io/news/104-alibaba-predstavila-qwen4-max-s-kontekstom-1-mln-tokenov)
 - 2026-11-16 · [Claude Code получил Code Mode для экономии токенов](https://scraimbled.github.io/news/103-claude-code-poluchil-code-mode-dlya-ekonomii-tokenov)
 - 2026-11-16 · [Claude Fable 5.2 рисует изображения с помощью кода Python](https://scraimbled.github.io/news/101-claude-fable-5-2-risuet-izobrazheniya-s-pomoshchyu-koda)
-- 2026-11-15 · [Qwen 4 Max доступен бесплатно до 25 ноября](https://scraimbled.github.io/news/99-qwen-4-max-dostupen-besplatno-do-25-noyabrya)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-19 · [ITMO says our AI lags because of a data shortage](https://scraimbled.github.io/en/news/129-itmo-says-our-ai-lags-because-of-a-data-shortage)
 - 2026-11-19 · [Suno opened MCP server access for Claude and ChatGPT](https://scraimbled.github.io/en/news/127-suno-opened-mcp-server-access-for-claude-and-chatgpt)
 - 2026-11-19 · [Critical vulnerabilities found in NGINX for server takeover](https://scraimbled.github.io/en/news/126-critical-vulnerabilities-found-in-nginx-for-server-takeover)
 - 2026-11-19 · [Google introduced the Gemini 4 Neon model](https://scraimbled.github.io/en/news/124-google-introduced-the-gemini-4-neon-model)
@@ -42,6 +43,5 @@
 - 2026-11-18 · [Spark renamed to Tasks and became free](https://scraimbled.github.io/en/news/119-spark-renamed-to-tasks-and-became-free)
 - 2026-11-17 · [AI payments in Telegram bots now only via Stars](https://scraimbled.github.io/en/news/115-ai-payments-in-telegram-bots-now-only-via-stars)
 - 2026-11-17 · [California sues OpenAI over hacking incidents](https://scraimbled.github.io/en/news/114-california-sues-openai-over-hacking-incidents)
-- 2026-11-17 · [Google and DeepSeek are massy unavailable in Russia](https://scraimbled.github.io/en/news/112-google-and-deepseek-are-massy-unavailable-in-russia)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
