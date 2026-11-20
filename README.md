@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-20 · [Капитализация Anthropic в 3,5 раза превышает рынок РФ](https://scraimbled.github.io/news/136-kapitalizatsiya-anthropic-v-3-5-raza-prevyshaet-rynok-rf)
 - 2026-11-20 · [Cloudflare выпустила модели Clairic для парсинга документов](https://scraimbled.github.io/news/133-cloudflare-vypustila-modeli-clairic-dlya-parsinga-dokumentov)
 - 2026-11-20 · [OpenAI оценила стоимость работы своих агентов](https://scraimbled.github.io/news/132-openai-otsenila-stoimost-raboty-svoikh-agentov)
 - 2026-11-20 · [В Microsoft Agent Framework подкинули вредоносный код](https://scraimbled.github.io/news/131-v-microsoft-agent-framework-podkinuli-vredonosnyy-kod)
@@ -27,12 +28,12 @@
 - 2026-11-17 · [Разработчик собрал подборку нейросетей без цензуры](https://scraimbled.github.io/news/110-razrabotchik-sobral-podborku-neyrosetey-bez-tsenzury)
 - 2026-11-17 · [Apple ввела лимиты на функции Siri в iOS 27.3](https://scraimbled.github.io/news/109-apple-vvela-limity-na-funktsii-siri-v-ios-27-3)
 - 2026-11-17 · [США вводят лицензии на поставку чипов в ряд стран](https://scraimbled.github.io/news/108-ssha-vvodyat-litsenzii-na-postavku-chipov-v-ryad-stran)
-- 2026-11-16 · [Утечка Gemini 4 Krypton с генерацией 3D и звука](https://scraimbled.github.io/news/105-utechka-gemini-4-krypton-s-generatsiey-3d-i-zvuka)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-20 · [Anthropic valuation is 3.5x larger than the Russian market](https://scraimbled.github.io/en/news/136-anthropic-valuation-is-3-5x-larger-than-the-russian-market)
 - 2026-11-20 · [Cloudflare released Clairic models for document parsing](https://scraimbled.github.io/en/news/133-cloudflare-released-clairic-models-for-document-parsing)
 - 2026-11-20 · [OpenAI estimated the cost of their agents](https://scraimbled.github.io/en/news/132-openai-estimated-the-cost-of-their-agents)
 - 2026-11-20 · [Malware slipped into Microsoft Agent Framework](https://scraimbled.github.io/en/news/131-malware-slipped-into-microsoft-agent-framework)
@@ -42,6 +43,5 @@
 - 2026-11-19 · [Critical vulnerabilities found in NGINX for server takeover](https://scraimbled.github.io/en/news/126-critical-vulnerabilities-found-in-nginx-for-server-takeover)
 - 2026-11-19 · [Google introduced the Gemini 4 Neon model](https://scraimbled.github.io/en/news/124-google-introduced-the-gemini-4-neon-model)
 - 2026-11-18 · [Physicist encountered a regional ban on Claude](https://scraimbled.github.io/en/news/121-physicist-encountered-a-regional-ban-on-claude)
-- 2026-11-18 · [Hackers hacked NVIDIA and plan to leak data](https://scraimbled.github.io/en/news/122-hackers-hacked-nvidia-and-plan-to-leak-data)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
