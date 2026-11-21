@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-21 · [Вышел бесплатный аналог CapCut с точностью разбора видео 92%](https://scraimbled.github.io/news/140-vyshel-besplatnyy-analog-capcut-s-tochnostyu-razbora-video)
 - 2026-11-20 · [В США могут обязать раскрывать использование китайского ИИ](https://scraimbled.github.io/news/137-v-ssha-mogut-obyazat-raskryvat-ispolzovanie-kitayskogo-ii)
 - 2026-11-20 · [Капитализация Anthropic в 3,5 раза превышает рынок РФ](https://scraimbled.github.io/news/136-kapitalizatsiya-anthropic-v-3-5-raza-prevyshaet-rynok-rf)
 - 2026-11-20 · [Cloudflare выпустила модели Clairic для парсинга документов](https://scraimbled.github.io/news/133-cloudflare-vypustila-modeli-clairic-dlya-parsinga-dokumentov)
@@ -27,12 +28,12 @@
 - 2026-11-17 · [Google и DeepSeek массово не открываются в РФ](https://scraimbled.github.io/news/112-google-i-deepseek-massovo-ne-otkryvayutsya-v-rf)
 - 2026-11-17 · [Tencent выпустила Hy4 flash с контекстом 1M токенов](https://scraimbled.github.io/news/111-tencent-vypustila-hy4-flash-s-kontekstom-1m-tokenov)
 - 2026-11-17 · [Разработчик собрал подборку нейросетей без цензуры](https://scraimbled.github.io/news/110-razrabotchik-sobral-podborku-neyrosetey-bez-tsenzury)
-- 2026-11-17 · [Apple ввела лимиты на функции Siri в iOS 27.3](https://scraimbled.github.io/news/109-apple-vvela-limity-na-funktsii-siri-v-ios-27-3)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-21 · [Free CapCut alternative released with 92% video analysis accuracy](https://scraimbled.github.io/en/news/140-free-capcut-alternative-released-with-92-video-analysis)
 - 2026-11-20 · [US might mandate disclosure of Chinese AI usage](https://scraimbled.github.io/en/news/137-us-might-mandate-disclosure-of-chinese-ai-usage)
 - 2026-11-20 · [Anthropic valuation is 3.5x larger than the Russian market](https://scraimbled.github.io/en/news/136-anthropic-valuation-is-3-5x-larger-than-the-russian-market)
 - 2026-11-20 · [Cloudflare released Clairic models for document parsing](https://scraimbled.github.io/en/news/133-cloudflare-released-clairic-models-for-document-parsing)
@@ -42,6 +43,5 @@
 - 2026-11-19 · [ITMO says our AI lags because of a data shortage](https://scraimbled.github.io/en/news/129-itmo-says-our-ai-lags-because-of-a-data-shortage)
 - 2026-11-19 · [Suno opened MCP server access for Claude and ChatGPT](https://scraimbled.github.io/en/news/127-suno-opened-mcp-server-access-for-claude-and-chatgpt)
 - 2026-11-19 · [Critical vulnerabilities found in NGINX for server takeover](https://scraimbled.github.io/en/news/126-critical-vulnerabilities-found-in-nginx-for-server-takeover)
-- 2026-11-19 · [Google introduced the Gemini 4 Neon model](https://scraimbled.github.io/en/news/124-google-introduced-the-gemini-4-neon-model)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
