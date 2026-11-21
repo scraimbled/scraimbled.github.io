@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-21 · [Google добавила нативную генерацию GIF в Gemini, но всё максимально криво](https://scraimbled.github.io/news/143-google-dobavila-nativnuyu-generatsiyu-gif-v-gemini-no-vse)
 - 2026-11-21 · [Google убрал кнопку поиска с главной страницы](https://scraimbled.github.io/news/142-google-ubral-knopku-poiska-s-glavnoy-stranitsy)
 - 2026-11-21 · [Математик доказал гипотезу Римана с помощью Claude](https://scraimbled.github.io/news/141-matematik-dokazal-gipotezu-rimana-s-pomoshchyu-claude)
 - 2026-11-21 · [Вышел бесплатный аналог CapCut с точностью разбора видео 92%](https://scraimbled.github.io/news/140-vyshel-besplatnyy-analog-capcut-s-tochnostyu-razbora-video)
@@ -27,12 +28,12 @@
 - 2026-11-18 · [Spark переименовали в Tasks и сделали бесплатным](https://scraimbled.github.io/news/119-spark-pereimenovali-v-tasks-i-sdelali-besplatnym)
 - 2026-11-17 · [Оплата ИИ в Telegram ботах теперь только через Stars](https://scraimbled.github.io/news/115-oplata-ii-v-telegram-botakh-teper-tolko-cherez-stars)
 - 2026-11-17 · [Калифорния подала в суд на OpenAI из-за взломов](https://scraimbled.github.io/news/114-kaliforniya-podala-v-sud-na-openai-iz-za-vzlomov)
-- 2026-11-17 · [Google и DeepSeek массово не открываются в РФ](https://scraimbled.github.io/news/112-google-i-deepseek-massovo-ne-otkryvayutsya-v-rf)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-21 · [Google added native GIF generation to Gemini, but it's pretty rough](https://scraimbled.github.io/en/news/143-google-added-native-gif-generation-to-gemini-but-it-s)
 - 2026-11-21 · [Google removed the search button from the homepage](https://scraimbled.github.io/en/news/142-google-removed-the-search-button-from-the-homepage)
 - 2026-11-21 · [Mathematician proved Riemann Hypothesis using Claude](https://scraimbled.github.io/en/news/141-mathematician-proved-riemann-hypothesis-using-claude)
 - 2026-11-21 · [Free CapCut alternative released with 92% video analysis accuracy](https://scraimbled.github.io/en/news/140-free-capcut-alternative-released-with-92-video-analysis)
@@ -42,6 +43,5 @@
 - 2026-11-20 · [OpenAI estimated the cost of their agents](https://scraimbled.github.io/en/news/132-openai-estimated-the-cost-of-their-agents)
 - 2026-11-20 · [Malware slipped into Microsoft Agent Framework](https://scraimbled.github.io/en/news/131-malware-slipped-into-microsoft-agent-framework)
 - 2026-11-19 · [Telegram is prepping an AI agent called Dictator for macOS, and I am tired of the hype](https://scraimbled.github.io/en/news/128-telegram-is-prepping-an-ai-agent-called-dictator-for-macos)
-- 2026-11-19 · [ITMO says our AI lags because of a data shortage](https://scraimbled.github.io/en/news/129-itmo-says-our-ai-lags-because-of-a-data-shortage)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
