@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-22 · [Разработчики нашли способы обхода KYC в Claude](https://scraimbled.github.io/news/146-razrabotchiki-nashli-sposoby-obkhoda-kyc-v-claude)
 - 2026-11-21 · [Google увеличила квоты Neon в AntiGravity на 22%](https://scraimbled.github.io/news/144-google-uvelichila-kvoty-neon-v-antigravity-na-22)
 - 2026-11-21 · [Google добавила нативную генерацию GIF в Gemini, но всё максимально криво](https://scraimbled.github.io/news/143-google-dobavila-nativnuyu-generatsiyu-gif-v-gemini-no-vse)
 - 2026-11-21 · [Google убрал кнопку поиска с главной страницы](https://scraimbled.github.io/news/142-google-ubral-knopku-poiska-s-glavnoy-stranitsy)
@@ -27,12 +28,12 @@
 - 2026-11-18 · [Хакеры взломали NVIDIA и планируют утечку данных](https://scraimbled.github.io/news/122-khakery-vzlomali-nvidia-i-planiruyut-utechku-dannykh)
 - 2026-11-18 · [Обновление GPT-6.2 снизило цены на Astra на 20%](https://scraimbled.github.io/news/120-obnovlenie-gpt-6-2-snizilo-tseny-na-astra-na-20)
 - 2026-11-18 · [Spark переименовали в Tasks и сделали бесплатным](https://scraimbled.github.io/news/119-spark-pereimenovali-v-tasks-i-sdelali-besplatnym)
-- 2026-11-17 · [Оплата ИИ в Telegram ботах теперь только через Stars](https://scraimbled.github.io/news/115-oplata-ii-v-telegram-botakh-teper-tolko-cherez-stars)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-22 · [Developers found ways to bypass Claude KYC](https://scraimbled.github.io/en/news/146-developers-found-ways-to-bypass-claude-kyc)
 - 2026-11-21 · [Google increased Neon quotas in AntiGravity by 22%](https://scraimbled.github.io/en/news/144-google-increased-neon-quotas-in-antigravity-by-22)
 - 2026-11-21 · [Google added native GIF generation to Gemini, but it's pretty rough](https://scraimbled.github.io/en/news/143-google-added-native-gif-generation-to-gemini-but-it-s)
 - 2026-11-21 · [Google removed the search button from the homepage](https://scraimbled.github.io/en/news/142-google-removed-the-search-button-from-the-homepage)
@@ -42,6 +43,5 @@
 - 2026-11-20 · [Anthropic valuation is 3.5x larger than the Russian market](https://scraimbled.github.io/en/news/136-anthropic-valuation-is-3-5x-larger-than-the-russian-market)
 - 2026-11-20 · [Cloudflare released Clairic models for document parsing](https://scraimbled.github.io/en/news/133-cloudflare-released-clairic-models-for-document-parsing)
 - 2026-11-20 · [OpenAI estimated the cost of their agents](https://scraimbled.github.io/en/news/132-openai-estimated-the-cost-of-their-agents)
-- 2026-11-20 · [Malware slipped into Microsoft Agent Framework](https://scraimbled.github.io/en/news/131-malware-slipped-into-microsoft-agent-framework)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
