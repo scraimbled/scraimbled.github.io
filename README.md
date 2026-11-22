@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-22 · [OpenAI стали отвечать на 40% короче и менее честно](https://scraimbled.github.io/news/149-openai-stali-otvechat-na-40-koroche-i-menee-chestno)
 - 2026-11-22 · [Claude Opus 5.5 доступен бесплатно через AWS Quick](https://scraimbled.github.io/news/148-claude-opus-5-5-dostupen-besplatno-cherez-aws-quick)
 - 2026-11-22 · [Разработчики нашли способы обхода KYC в Claude](https://scraimbled.github.io/news/146-razrabotchiki-nashli-sposoby-obkhoda-kyc-v-claude)
 - 2026-11-21 · [Google увеличила квоты Neon в AntiGravity на 22%](https://scraimbled.github.io/news/144-google-uvelichila-kvoty-neon-v-antigravity-na-22)
@@ -27,12 +28,12 @@
 - 2026-11-19 · [Google представила модель Gemini 4 Neon](https://scraimbled.github.io/news/124-google-predstavila-model-gemini-4-neon)
 - 2026-11-18 · [Физик столкнулся с региональным баном Claude](https://scraimbled.github.io/news/121-fizik-stolknulsya-s-regionalnym-banom-claude)
 - 2026-11-18 · [Хакеры взломали NVIDIA и планируют утечку данных](https://scraimbled.github.io/news/122-khakery-vzlomali-nvidia-i-planiruyut-utechku-dannykh)
-- 2026-11-18 · [Обновление GPT-6.2 снизило цены на Astra на 20%](https://scraimbled.github.io/news/120-obnovlenie-gpt-6-2-snizilo-tseny-na-astra-na-20)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-22 · [OpenAI answers are 40% shorter and less honest](https://scraimbled.github.io/en/news/149-openai-answers-are-40-shorter-and-less-honest)
 - 2026-11-22 · [Claude Opus 5.5 is available for free via AWS Quick](https://scraimbled.github.io/en/news/148-claude-opus-5-5-is-available-for-free-via-aws-quick)
 - 2026-11-22 · [Developers found ways to bypass Claude KYC](https://scraimbled.github.io/en/news/146-developers-found-ways-to-bypass-claude-kyc)
 - 2026-11-21 · [Google increased Neon quotas in AntiGravity by 22%](https://scraimbled.github.io/en/news/144-google-increased-neon-quotas-in-antigravity-by-22)
@@ -42,6 +43,5 @@
 - 2026-11-21 · [Free CapCut alternative released with 92% video analysis accuracy](https://scraimbled.github.io/en/news/140-free-capcut-alternative-released-with-92-video-analysis)
 - 2026-11-20 · [US might mandate disclosure of Chinese AI usage](https://scraimbled.github.io/en/news/137-us-might-mandate-disclosure-of-chinese-ai-usage)
 - 2026-11-20 · [Anthropic valuation is 3.5x larger than the Russian market](https://scraimbled.github.io/en/news/136-anthropic-valuation-is-3-5x-larger-than-the-russian-market)
-- 2026-11-20 · [Cloudflare released Clairic models for document parsing](https://scraimbled.github.io/en/news/133-cloudflare-released-clairic-models-for-document-parsing)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
