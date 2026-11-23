@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-23 · [Thinking Machines Lab выложили Inkling 2 Mini на 26.4B параметров под Apache 2.0](https://scraimbled.github.io/news/155-thinking-machines-lab-vylozhili-inkling-2-mini-na-26-4b)
 - 2026-11-23 · [Цена на GLM 5.3 в OpenCode снизилась на 60%](https://scraimbled.github.io/news/153-tsena-na-glm-5-3-v-opencode-snizilas-na-60)
 - 2026-11-22 · [OpenAI стали отвечать на 40% короче и менее честно](https://scraimbled.github.io/news/149-openai-stali-otvechat-na-40-koroche-i-menee-chestno)
 - 2026-11-22 · [Claude Opus 5.5 доступен бесплатно через AWS Quick](https://scraimbled.github.io/news/148-claude-opus-5-5-dostupen-besplatno-cherez-aws-quick)
@@ -27,12 +28,12 @@
 - 2026-11-19 · [Suno открыла доступ к MCP-серверу для Claude и ChatGPT](https://scraimbled.github.io/news/127-suno-otkryla-dostup-k-mcp-serveru-dlya-claude-i-chatgpt)
 - 2026-11-19 · [В NGINX нашли критические уязвимости для захвата сервера](https://scraimbled.github.io/news/126-v-nginx-nashli-kriticheskie-uyazvimosti-dlya-zakhvata)
 - 2026-11-19 · [Google представила модель Gemini 4 Neon](https://scraimbled.github.io/news/124-google-predstavila-model-gemini-4-neon)
-- 2026-11-18 · [Физик столкнулся с региональным баном Claude](https://scraimbled.github.io/news/121-fizik-stolknulsya-s-regionalnym-banom-claude)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-23 · [Thinking Machines Lab just dropped Inkling 2 Mini with 26.4B params under Apache 2.0](https://scraimbled.github.io/en/news/155-thinking-machines-lab-just-dropped-inkling-2-mini-with-26)
 - 2026-11-23 · [GLM 5.3 price in OpenCode decreased by 60%](https://scraimbled.github.io/en/news/153-glm-5-3-price-in-opencode-decreased-by-60)
 - 2026-11-22 · [OpenAI answers are 40% shorter and less honest](https://scraimbled.github.io/en/news/149-openai-answers-are-40-shorter-and-less-honest)
 - 2026-11-22 · [Claude Opus 5.5 is available for free via AWS Quick](https://scraimbled.github.io/en/news/148-claude-opus-5-5-is-available-for-free-via-aws-quick)
@@ -42,6 +43,5 @@
 - 2026-11-21 · [Google removed the search button from the homepage](https://scraimbled.github.io/en/news/142-google-removed-the-search-button-from-the-homepage)
 - 2026-11-21 · [Mathematician proved Riemann Hypothesis using Claude](https://scraimbled.github.io/en/news/141-mathematician-proved-riemann-hypothesis-using-claude)
 - 2026-11-21 · [Free CapCut alternative released with 92% video analysis accuracy](https://scraimbled.github.io/en/news/140-free-capcut-alternative-released-with-92-video-analysis)
-- 2026-11-20 · [US might mandate disclosure of Chinese AI usage](https://scraimbled.github.io/en/news/137-us-might-mandate-disclosure-of-chinese-ai-usage)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
