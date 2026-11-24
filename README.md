@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-24 · [AlphaAnything выкатили RGBA-адаптеры для генерации картинок с прозрачным фоном](https://scraimbled.github.io/news/160-alphaanything-vykatili-rgba-adaptery-dlya-generatsii)
 - 2026-11-23 · [Браузер Ego позволяет делегировать задачи AI агентам](https://scraimbled.github.io/news/158-brauzer-ego-pozvolyaet-delegirovat-zadachi-ai-agentam)
 - 2026-11-23 · [Thinking Machines Lab выложили Inkling 2 Mini на 26.4B параметров под Apache 2.0](https://scraimbled.github.io/news/155-thinking-machines-lab-vylozhili-inkling-2-mini-na-26-4b)
 - 2026-11-23 · [Цена на GLM 5.3 в OpenCode снизилась на 60%](https://scraimbled.github.io/news/153-tsena-na-glm-5-3-v-opencode-snizilas-na-60)
@@ -27,12 +28,12 @@
 - 2026-11-19 · [Telegram готовит агента Dictator для macOS](https://scraimbled.github.io/news/128-telegram-gotovit-agenta-dictator-dlya-macos)
 - 2026-11-19 · [ИТМО пишет, что наши ИИ проигрывают из-за нехватки данных](https://scraimbled.github.io/news/129-itmo-pishet-chto-nashi-ii-proigryvayut-iz-za-nekhvatki)
 - 2026-11-19 · [Suno открыла доступ к MCP-серверу для Claude и ChatGPT](https://scraimbled.github.io/news/127-suno-otkryla-dostup-k-mcp-serveru-dlya-claude-i-chatgpt)
-- 2026-11-19 · [В NGINX нашли критические уязвимости для захвата сервера](https://scraimbled.github.io/news/126-v-nginx-nashli-kriticheskie-uyazvimosti-dlya-zakhvata)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-24 · [AlphaAnything dropped RGBA adapters for generating images with transparent backgrounds](https://scraimbled.github.io/en/news/160-alphaanything-dropped-rgba-adapters-for-generating-images)
 - 2026-11-23 · [Ego browser allows delegating tasks to AI agents](https://scraimbled.github.io/en/news/158-ego-browser-allows-delegating-tasks-to-ai-agents)
 - 2026-11-23 · [Thinking Machines Lab just dropped Inkling 2 Mini with 26.4B params under Apache 2.0](https://scraimbled.github.io/en/news/155-thinking-machines-lab-just-dropped-inkling-2-mini-with-26)
 - 2026-11-23 · [GLM 5.3 price in OpenCode decreased by 60%](https://scraimbled.github.io/en/news/153-glm-5-3-price-in-opencode-decreased-by-60)
@@ -42,6 +43,5 @@
 - 2026-11-21 · [Google increased Neon quotas in AntiGravity by 22%](https://scraimbled.github.io/en/news/144-google-increased-neon-quotas-in-antigravity-by-22)
 - 2026-11-21 · [Google added native GIF generation to Gemini, but it's pretty rough](https://scraimbled.github.io/en/news/143-google-added-native-gif-generation-to-gemini-but-it-s)
 - 2026-11-21 · [Google removed the search button from the homepage](https://scraimbled.github.io/en/news/142-google-removed-the-search-button-from-the-homepage)
-- 2026-11-21 · [Mathematician proved Riemann Hypothesis using Claude](https://scraimbled.github.io/en/news/141-mathematician-proved-riemann-hypothesis-using-claude)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
