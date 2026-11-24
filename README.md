@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-24 · [Google изменила доступ к моделям Carbon и Hydrogen](https://scraimbled.github.io/news/164-google-izmenila-dostup-k-modelyam-carbon-i-hydrogen)
 - 2026-11-24 · [В ChatGPT появилась функция Dots для пользователей Pro в ЕС](https://scraimbled.github.io/news/161-v-chatgpt-poyavilas-funktsiya-dots-dlya-polzovateley-pro-v)
 - 2026-11-24 · [AlphaAnything выкатили RGBA-адаптеры для генерации картинок с прозрачным фоном](https://scraimbled.github.io/news/160-alphaanything-vykatili-rgba-adaptery-dlya-generatsii)
 - 2026-11-23 · [Браузер Ego позволяет делегировать задачи AI агентам](https://scraimbled.github.io/news/158-brauzer-ego-pozvolyaet-delegirovat-zadachi-ai-agentam)
@@ -27,12 +28,12 @@
 - 2026-11-20 · [OpenAI оценила стоимость работы своих агентов](https://scraimbled.github.io/news/132-openai-otsenila-stoimost-raboty-svoikh-agentov)
 - 2026-11-20 · [В Microsoft Agent Framework подкинули вредоносный код](https://scraimbled.github.io/news/131-v-microsoft-agent-framework-podkinuli-vredonosnyy-kod)
 - 2026-11-19 · [Telegram готовит агента Dictator для macOS](https://scraimbled.github.io/news/128-telegram-gotovit-agenta-dictator-dlya-macos)
-- 2026-11-19 · [ИТМО пишет, что наши ИИ проигрывают из-за нехватки данных](https://scraimbled.github.io/news/129-itmo-pishet-chto-nashi-ii-proigryvayut-iz-za-nekhvatki)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-24 · [Google changed access to Carbon and Hydrogen models](https://scraimbled.github.io/en/news/164-google-changed-access-to-carbon-and-hydrogen-models)
 - 2026-11-24 · [ChatGPT Dots feature launched for Pro users in the EU](https://scraimbled.github.io/en/news/161-chatgpt-dots-feature-launched-for-pro-users-in-the-eu)
 - 2026-11-24 · [AlphaAnything dropped RGBA adapters for generating images with transparent backgrounds](https://scraimbled.github.io/en/news/160-alphaanything-dropped-rgba-adapters-for-generating-images)
 - 2026-11-23 · [Ego browser allows delegating tasks to AI agents](https://scraimbled.github.io/en/news/158-ego-browser-allows-delegating-tasks-to-ai-agents)
@@ -42,6 +43,5 @@
 - 2026-11-22 · [Claude Opus 5.5 is available for free via AWS Quick](https://scraimbled.github.io/en/news/148-claude-opus-5-5-is-available-for-free-via-aws-quick)
 - 2026-11-22 · [Developers found ways to bypass Claude KYC](https://scraimbled.github.io/en/news/146-developers-found-ways-to-bypass-claude-kyc)
 - 2026-11-21 · [Google increased Neon quotas in AntiGravity by 22%](https://scraimbled.github.io/en/news/144-google-increased-neon-quotas-in-antigravity-by-22)
-- 2026-11-21 · [Google added native GIF generation to Gemini, but it's pretty rough](https://scraimbled.github.io/en/news/143-google-added-native-gif-generation-to-gemini-but-it-s)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
