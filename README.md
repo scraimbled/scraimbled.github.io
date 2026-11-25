@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-25 · [Tidal удалит 29 млн полностью сгенерированных ИИ треков](https://scraimbled.github.io/news/167-tidal-udalit-29-mln-polnostyu-sgenerirovannykh-ii-trekov)
 - 2026-11-24 · [Anthropic представила Claude Ship для автоматизации разработки](https://scraimbled.github.io/news/166-anthropic-predstavila-claude-ship-dlya-avtomatizatsii)
 - 2026-11-24 · [OpenAI внедряет GPT-6.2 для платных подписчиков](https://scraimbled.github.io/news/165-openai-vnedryaet-gpt-6-2-dlya-platnykh-podpischikov)
 - 2026-11-24 · [Google изменила доступ к моделям Carbon и Hydrogen](https://scraimbled.github.io/news/164-google-izmenila-dostup-k-modelyam-carbon-i-hydrogen)
@@ -27,12 +28,12 @@
 - 2026-11-20 · [В США могут обязать раскрывать использование китайского ИИ](https://scraimbled.github.io/news/137-v-ssha-mogut-obyazat-raskryvat-ispolzovanie-kitayskogo-ii)
 - 2026-11-20 · [Капитализация Anthropic в 3,5 раза превышает рынок РФ](https://scraimbled.github.io/news/136-kapitalizatsiya-anthropic-v-3-5-raza-prevyshaet-rynok-rf)
 - 2026-11-20 · [Cloudflare выпустила модели Clairic для парсинга документов](https://scraimbled.github.io/news/133-cloudflare-vypustila-modeli-clairic-dlya-parsinga-dokumentov)
-- 2026-11-20 · [OpenAI оценила стоимость работы своих агентов](https://scraimbled.github.io/news/132-openai-otsenila-stoimost-raboty-svoikh-agentov)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-25 · [Tidal to remove 29 million fully AI-generated tracks](https://scraimbled.github.io/en/news/167-tidal-to-remove-29-million-fully-ai-generated-tracks)
 - 2026-11-24 · [Anthropic released Claude Ship for development automation](https://scraimbled.github.io/en/news/166-anthropic-released-claude-ship-for-development-automation)
 - 2026-11-24 · [OpenAI rolls out GPT-6.2 for paid subscribers](https://scraimbled.github.io/en/news/165-openai-rolls-out-gpt-6-2-for-paid-subscribers)
 - 2026-11-24 · [Google changed access to Carbon and Hydrogen models](https://scraimbled.github.io/en/news/164-google-changed-access-to-carbon-and-hydrogen-models)
@@ -42,6 +43,5 @@
 - 2026-11-23 · [Thinking Machines Lab just dropped Inkling 2 Mini with 26.4B params under Apache 2.0](https://scraimbled.github.io/en/news/155-thinking-machines-lab-just-dropped-inkling-2-mini-with-26)
 - 2026-11-23 · [GLM 5.3 price in OpenCode decreased by 60%](https://scraimbled.github.io/en/news/153-glm-5-3-price-in-opencode-decreased-by-60)
 - 2026-11-22 · [OpenAI answers are 40% shorter and less honest](https://scraimbled.github.io/en/news/149-openai-answers-are-40-shorter-and-less-honest)
-- 2026-11-22 · [Claude Opus 5.5 is available for free via AWS Quick](https://scraimbled.github.io/en/news/148-claude-opus-5-5-is-available-for-free-via-aws-quick)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
