@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-25 · [Опять квест с оплатой нейросетей](https://scraimbled.github.io/news/174-opyat-kvest-s-oplatoy-neyrosetey)
 - 2026-11-25 · [Claude превращает артефакты в полноценные приложения](https://scraimbled.github.io/news/170-claude-prevrashchaet-artefakty-v-polnotsennye-prilozheniya)
 - 2026-11-25 · [Яндекс выпустил агентов Алиса AI раньше срока](https://scraimbled.github.io/news/168-yandeks-vypustil-agentov-alisa-ai-ranshe-sroka)
 - 2026-11-25 · [Sand.ai анонсировала open source модель MAGI-2 на 480B](https://scraimbled.github.io/news/169-sand-ai-anonsirovala-open-source-model-magi-2-na-480b)
@@ -27,12 +28,12 @@
 - 2026-11-21 · [Google добавила нативную генерацию GIF в Gemini, но всё максимально криво](https://scraimbled.github.io/news/143-google-dobavila-nativnuyu-generatsiyu-gif-v-gemini-no-vse)
 - 2026-11-21 · [Google убрал кнопку поиска с главной страницы](https://scraimbled.github.io/news/142-google-ubral-knopku-poiska-s-glavnoy-stranitsy)
 - 2026-11-21 · [Математик доказал гипотезу Римана с помощью Claude](https://scraimbled.github.io/news/141-matematik-dokazal-gipotezu-rimana-s-pomoshchyu-claude)
-- 2026-11-21 · [Вышел бесплатный аналог CapCut с точностью разбора видео 92%](https://scraimbled.github.io/news/140-vyshel-besplatnyy-analog-capcut-s-tochnostyu-razbora-video)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-25 · [The monthly AI payment quest is back](https://scraimbled.github.io/en/news/174-the-monthly-ai-payment-quest-is-back)
 - 2026-11-25 · [Claude turns artifacts into full desktop apps](https://scraimbled.github.io/en/news/170-claude-turns-artifacts-into-full-desktop-apps)
 - 2026-11-25 · [Yandex released Alisa AI agents earlier than planned](https://scraimbled.github.io/en/news/168-yandex-released-alisa-ai-agents-earlier-than-planned)
 - 2026-11-25 · [Sand.ai announced MAGI-2 open source model with 480B parameters](https://scraimbled.github.io/en/news/169-sand-ai-announced-magi-2-open-source-model-with-480b)
@@ -42,6 +43,5 @@
 - 2026-11-24 · [Google changed access to Carbon and Hydrogen models](https://scraimbled.github.io/en/news/164-google-changed-access-to-carbon-and-hydrogen-models)
 - 2026-11-24 · [ChatGPT Dots feature launched for Pro users in the EU](https://scraimbled.github.io/en/news/161-chatgpt-dots-feature-launched-for-pro-users-in-the-eu)
 - 2026-11-24 · [AlphaAnything dropped RGBA adapters for generating images with transparent backgrounds](https://scraimbled.github.io/en/news/160-alphaanything-dropped-rgba-adapters-for-generating-images)
-- 2026-11-23 · [Ego browser allows delegating tasks to AI agents](https://scraimbled.github.io/en/news/158-ego-browser-allows-delegating-tasks-to-ai-agents)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
