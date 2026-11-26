@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-26 · [Обход ограничений Claude через KYC документы СНГ](https://scraimbled.github.io/news/171-obkhod-ogranicheniy-claude-cherez-kyc-dokumenty-sng)
 - 2026-11-26 · [Taan AI выпустила модель с точностью таймингов 96%](https://scraimbled.github.io/news/173-taan-ai-vypustila-model-s-tochnostyu-taymingov-96)
 - 2026-11-25 · [Claude превращает артефакты в полноценные приложения](https://scraimbled.github.io/news/170-claude-prevrashchaet-artefakty-v-polnotsennye-prilozheniya)
 - 2026-11-25 · [Яндекс выпустил агентов Алиса AI раньше срока](https://scraimbled.github.io/news/168-yandeks-vypustil-agentov-alisa-ai-ranshe-sroka)
@@ -27,12 +28,12 @@
 - 2026-11-21 · [Google увеличила квоты Neon в AntiGravity на 22%](https://scraimbled.github.io/news/144-google-uvelichila-kvoty-neon-v-antigravity-na-22)
 - 2026-11-21 · [Google добавила нативную генерацию GIF в Gemini, но всё максимально криво](https://scraimbled.github.io/news/143-google-dobavila-nativnuyu-generatsiyu-gif-v-gemini-no-vse)
 - 2026-11-21 · [Google убрал кнопку поиска с главной страницы](https://scraimbled.github.io/news/142-google-ubral-knopku-poiska-s-glavnoy-stranitsy)
-- 2026-11-21 · [Математик доказал гипотезу Римана с помощью Claude](https://scraimbled.github.io/news/141-matematik-dokazal-gipotezu-rimana-s-pomoshchyu-claude)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-26 · [Bypassing Claude restrictions via CIS KYC documents](https://scraimbled.github.io/en/news/171-bypassing-claude-restrictions-via-cis-kyc-documents)
 - 2026-11-26 · [Taan AI released a model with 96% timing accuracy](https://scraimbled.github.io/en/news/173-taan-ai-released-a-model-with-96-timing-accuracy)
 - 2026-11-25 · [Claude turns artifacts into full desktop apps](https://scraimbled.github.io/en/news/170-claude-turns-artifacts-into-full-desktop-apps)
 - 2026-11-25 · [Yandex released Alisa AI agents earlier than planned](https://scraimbled.github.io/en/news/168-yandex-released-alisa-ai-agents-earlier-than-planned)
@@ -42,6 +43,5 @@
 - 2026-11-24 · [OpenAI rolls out GPT-6.2 for paid subscribers](https://scraimbled.github.io/en/news/165-openai-rolls-out-gpt-6-2-for-paid-subscribers)
 - 2026-11-24 · [Google changed access to Carbon and Hydrogen models](https://scraimbled.github.io/en/news/164-google-changed-access-to-carbon-and-hydrogen-models)
 - 2026-11-24 · [ChatGPT Dots feature launched for Pro users in the EU](https://scraimbled.github.io/en/news/161-chatgpt-dots-feature-launched-for-pro-users-in-the-eu)
-- 2026-11-24 · [AlphaAnything dropped RGBA adapters for generating images with transparent backgrounds](https://scraimbled.github.io/en/news/160-alphaanything-dropped-rgba-adapters-for-generating-images)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
