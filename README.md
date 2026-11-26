@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-26 · [Вроде как нашли способ ломать RSA, но это пока только слухи](https://scraimbled.github.io/news/175-vrode-kak-nashli-sposob-lomat-rsa-no-eto-poka-tolko-slukhi)
 - 2026-11-26 · [Обход ограничений Claude через KYC документы СНГ](https://scraimbled.github.io/news/171-obkhod-ogranicheniy-claude-cherez-kyc-dokumenty-sng)
 - 2026-11-26 · [Taan AI выпустила модель с точностью таймингов 96%](https://scraimbled.github.io/news/173-taan-ai-vypustila-model-s-tochnostyu-taymingov-96)
 - 2026-11-25 · [Claude превращает артефакты в полноценные приложения](https://scraimbled.github.io/news/170-claude-prevrashchaet-artefakty-v-polnotsennye-prilozheniya)
@@ -27,12 +28,12 @@
 - 2026-11-22 · [Разработчики нашли способы обхода KYC в Claude](https://scraimbled.github.io/news/146-razrabotchiki-nashli-sposoby-obkhoda-kyc-v-claude)
 - 2026-11-21 · [Google увеличила квоты Neon в AntiGravity на 22%](https://scraimbled.github.io/news/144-google-uvelichila-kvoty-neon-v-antigravity-na-22)
 - 2026-11-21 · [Google добавила нативную генерацию GIF в Gemini, но всё максимально криво](https://scraimbled.github.io/news/143-google-dobavila-nativnuyu-generatsiyu-gif-v-gemini-no-vse)
-- 2026-11-21 · [Google убрал кнопку поиска с главной страницы](https://scraimbled.github.io/news/142-google-ubral-knopku-poiska-s-glavnoy-stranitsy)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-26 · [Rumors say OpenAI or Anthropic might have cracked RSA](https://scraimbled.github.io/en/news/175-rumors-say-openai-or-anthropic-might-have-cracked-rsa)
 - 2026-11-26 · [Bypassing Claude restrictions via CIS KYC documents](https://scraimbled.github.io/en/news/171-bypassing-claude-restrictions-via-cis-kyc-documents)
 - 2026-11-26 · [Taan AI released a model with 96% timing accuracy](https://scraimbled.github.io/en/news/173-taan-ai-released-a-model-with-96-timing-accuracy)
 - 2026-11-25 · [Claude turns artifacts into full desktop apps](https://scraimbled.github.io/en/news/170-claude-turns-artifacts-into-full-desktop-apps)
@@ -42,6 +43,5 @@
 - 2026-11-24 · [Anthropic released Claude Ship for development automation](https://scraimbled.github.io/en/news/166-anthropic-released-claude-ship-for-development-automation)
 - 2026-11-24 · [OpenAI rolls out GPT-6.2 for paid subscribers](https://scraimbled.github.io/en/news/165-openai-rolls-out-gpt-6-2-for-paid-subscribers)
 - 2026-11-24 · [Google changed access to Carbon and Hydrogen models](https://scraimbled.github.io/en/news/164-google-changed-access-to-carbon-and-hydrogen-models)
-- 2026-11-24 · [ChatGPT Dots feature launched for Pro users in the EU](https://scraimbled.github.io/en/news/161-chatgpt-dots-feature-launched-for-pro-users-in-the-eu)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
