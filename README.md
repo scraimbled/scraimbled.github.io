@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-27 · [Krea выпустила редактор моушен-графики Motion](https://scraimbled.github.io/news/180-krea-vypustila-redaktor-moushen-grafiki-motion)
 - 2026-11-26 · [OpenAI сокращает лимиты GPT-6.2 почти вдвое](https://scraimbled.github.io/news/179-openai-sokrashchaet-limity-gpt-6-2-pochti-vdvoe)
 - 2026-11-26 · [На Hugging Face выпустили NSFW-видеомодель Sulfur 3](https://scraimbled.github.io/news/178-na-hugging-face-vypustili-nsfw-videomodel-sulfur-3)
 - 2026-11-26 · [Вроде как нашли способ ломать RSA, но это пока только слухи](https://scraimbled.github.io/news/175-vrode-kak-nashli-sposob-lomat-rsa-no-eto-poka-tolko-slukhi)
@@ -27,12 +28,12 @@
 - 2026-11-23 · [Цена на GLM 5.3 в OpenCode снизилась на 60%](https://scraimbled.github.io/news/153-tsena-na-glm-5-3-v-opencode-snizilas-na-60)
 - 2026-11-22 · [OpenAI стали отвечать на 40% короче и менее честно](https://scraimbled.github.io/news/149-openai-stali-otvechat-na-40-koroche-i-menee-chestno)
 - 2026-11-22 · [Claude Opus 5.5 доступен бесплатно через AWS Quick](https://scraimbled.github.io/news/148-claude-opus-5-5-dostupen-besplatno-cherez-aws-quick)
-- 2026-11-22 · [Разработчики нашли способы обхода KYC в Claude](https://scraimbled.github.io/news/146-razrabotchiki-nashli-sposoby-obkhoda-kyc-v-claude)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-27 · [Krea released Motion motion graphics editor](https://scraimbled.github.io/en/news/180-krea-released-motion-motion-graphics-editor)
 - 2026-11-26 · [OpenAI cuts GPT-6.2 limits by almost half](https://scraimbled.github.io/en/news/179-openai-cuts-gpt-6-2-limits-by-almost-half)
 - 2026-11-26 · [Sulfur 3 NSFW video model released on Hugging Face](https://scraimbled.github.io/en/news/178-sulfur-3-nsfw-video-model-released-on-hugging-face)
 - 2026-11-26 · [Rumors say OpenAI or Anthropic might have cracked RSA](https://scraimbled.github.io/en/news/175-rumors-say-openai-or-anthropic-might-have-cracked-rsa)
@@ -42,6 +43,5 @@
 - 2026-11-25 · [Yandex released Alisa AI agents earlier than planned](https://scraimbled.github.io/en/news/168-yandex-released-alisa-ai-agents-earlier-than-planned)
 - 2026-11-25 · [Sand.ai announced MAGI-2 open source model with 480B parameters](https://scraimbled.github.io/en/news/169-sand-ai-announced-magi-2-open-source-model-with-480b)
 - 2026-11-25 · [Tidal to remove 29 million fully AI-generated tracks](https://scraimbled.github.io/en/news/167-tidal-to-remove-29-million-fully-ai-generated-tracks)
-- 2026-11-24 · [Anthropic released Claude Ship for development automation](https://scraimbled.github.io/en/news/166-anthropic-released-claude-ship-for-development-automation)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
