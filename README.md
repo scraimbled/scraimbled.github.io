@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-27 · [Китайские ИИ-компании столкнулись с задержками разработок](https://scraimbled.github.io/news/183-kitayskie-ii-kompanii-stolknulis-s-zaderzhkami-razrabotok)
 - 2026-11-27 · [OpenAI может взломать эллиптическую криптографию](https://scraimbled.github.io/news/182-openai-mozhet-vzlomat-ellipticheskuyu-kriptografiyu)
 - 2026-11-27 · [Nvidia перекрыла кислород китайским компаниям через Юго-Восточную Азию](https://scraimbled.github.io/news/181-nvidia-perekryla-kislorod-kitayskim-kompaniyam-cherez-yugo)
 - 2026-11-27 · [Krea выпустила редактор моушен-графики Motion](https://scraimbled.github.io/news/180-krea-vypustila-redaktor-moushen-grafiki-motion)
@@ -27,12 +28,12 @@
 - 2026-11-24 · [AlphaAnything выкатили RGBA-адаптеры для генерации картинок с прозрачным фоном](https://scraimbled.github.io/news/160-alphaanything-vykatili-rgba-adaptery-dlya-generatsii)
 - 2026-11-23 · [Браузер Ego позволяет делегировать задачи AI агентам](https://scraimbled.github.io/news/158-brauzer-ego-pozvolyaet-delegirovat-zadachi-ai-agentam)
 - 2026-11-23 · [Thinking Machines Lab выложили Inkling 2 Mini на 26.4B параметров под Apache 2.0](https://scraimbled.github.io/news/155-thinking-machines-lab-vylozhili-inkling-2-mini-na-26-4b)
-- 2026-11-23 · [Цена на GLM 5.3 в OpenCode снизилась на 60%](https://scraimbled.github.io/news/153-tsena-na-glm-5-3-v-opencode-snizilas-na-60)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-27 · [Chinese AI companies face development delays](https://scraimbled.github.io/en/news/183-chinese-ai-companies-face-development-delays)
 - 2026-11-27 · [OpenAI could crack elliptic curve cryptography](https://scraimbled.github.io/en/news/182-openai-could-crack-elliptic-curve-cryptography)
 - 2026-11-27 · [Nvidia is cutting off Chinese companies in Southeast Asia](https://scraimbled.github.io/en/news/181-nvidia-is-cutting-off-chinese-companies-in-southeast-asia)
 - 2026-11-27 · [Krea released Motion motion graphics editor](https://scraimbled.github.io/en/news/180-krea-released-motion-motion-graphics-editor)
@@ -42,6 +43,5 @@
 - 2026-11-26 · [Bypassing Claude restrictions via CIS KYC documents](https://scraimbled.github.io/en/news/171-bypassing-claude-restrictions-via-cis-kyc-documents)
 - 2026-11-26 · [Taan AI released a model with 96% timing accuracy](https://scraimbled.github.io/en/news/173-taan-ai-released-a-model-with-96-timing-accuracy)
 - 2026-11-25 · [Claude turns artifacts into full desktop apps](https://scraimbled.github.io/en/news/170-claude-turns-artifacts-into-full-desktop-apps)
-- 2026-11-25 · [Yandex released Alisa AI agents earlier than planned](https://scraimbled.github.io/en/news/168-yandex-released-alisa-ai-agents-earlier-than-planned)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
