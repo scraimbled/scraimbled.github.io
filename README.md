@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-28 · [Microsoft раздает бесплатные сертификаты по ИБ](https://scraimbled.github.io/news/187-microsoft-razdaet-besplatnye-sertifikaty-po-ib)
 - 2026-11-27 · [Claude забанил пользователя за использование в Китае](https://scraimbled.github.io/news/184-claude-zabanil-polzovatelya-za-ispolzovanie-v-kitae)
 - 2026-11-27 · [Китайские ИИ-компании столкнулись с задержками разработок](https://scraimbled.github.io/news/183-kitayskie-ii-kompanii-stolknulis-s-zaderzhkami-razrabotok)
 - 2026-11-27 · [OpenAI может взломать эллиптическую криптографию](https://scraimbled.github.io/news/182-openai-mozhet-vzlomat-ellipticheskuyu-kriptografiyu)
@@ -27,12 +28,12 @@
 - 2026-11-24 · [Google изменила доступ к моделям Carbon и Hydrogen](https://scraimbled.github.io/news/164-google-izmenila-dostup-k-modelyam-carbon-i-hydrogen)
 - 2026-11-24 · [В ChatGPT появилась функция Dots для пользователей Pro в ЕС](https://scraimbled.github.io/news/161-v-chatgpt-poyavilas-funktsiya-dots-dlya-polzovateley-pro-v)
 - 2026-11-24 · [AlphaAnything выкатили RGBA-адаптеры для генерации картинок с прозрачным фоном](https://scraimbled.github.io/news/160-alphaanything-vykatili-rgba-adaptery-dlya-generatsii)
-- 2026-11-23 · [Браузер Ego позволяет делегировать задачи AI агентам](https://scraimbled.github.io/news/158-brauzer-ego-pozvolyaet-delegirovat-zadachi-ai-agentam)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-28 · [Microsoft gives away free cybersecurity certificates](https://scraimbled.github.io/en/news/187-microsoft-gives-away-free-cybersecurity-certificates)
 - 2026-11-27 · [Claude banned a user for using it in China](https://scraimbled.github.io/en/news/184-claude-banned-a-user-for-using-it-in-china)
 - 2026-11-27 · [Chinese AI companies face development delays](https://scraimbled.github.io/en/news/183-chinese-ai-companies-face-development-delays)
 - 2026-11-27 · [OpenAI could crack elliptic curve cryptography](https://scraimbled.github.io/en/news/182-openai-could-crack-elliptic-curve-cryptography)
@@ -42,6 +43,5 @@
 - 2026-11-26 · [Sulfur 3 NSFW video model released on Hugging Face](https://scraimbled.github.io/en/news/178-sulfur-3-nsfw-video-model-released-on-hugging-face)
 - 2026-11-26 · [Rumors say OpenAI or Anthropic might have cracked RSA](https://scraimbled.github.io/en/news/175-rumors-say-openai-or-anthropic-might-have-cracked-rsa)
 - 2026-11-26 · [Bypassing Claude restrictions via CIS KYC documents](https://scraimbled.github.io/en/news/171-bypassing-claude-restrictions-via-cis-kyc-documents)
-- 2026-11-26 · [Taan AI released a model with 96% timing accuracy](https://scraimbled.github.io/en/news/173-taan-ai-released-a-model-with-96-timing-accuracy)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
