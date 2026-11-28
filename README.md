@@ -8,6 +8,7 @@
 
 ## Свежие новости
 
+- 2026-11-28 · [OpenAI подала иск против Apple из-за кражи секретов](https://scraimbled.github.io/news/188-openai-podala-isk-protiv-apple-iz-za-krazhi-sekretov)
 - 2026-11-28 · [Microsoft раздает бесплатные сертификаты по ИБ](https://scraimbled.github.io/news/187-microsoft-razdaet-besplatnye-sertifikaty-po-ib)
 - 2026-11-27 · [Claude забанил пользователя за использование в Китае](https://scraimbled.github.io/news/184-claude-zabanil-polzovatelya-za-ispolzovanie-v-kitae)
 - 2026-11-27 · [Китайские ИИ-компании столкнулись с задержками разработок](https://scraimbled.github.io/news/183-kitayskie-ii-kompanii-stolknulis-s-zaderzhkami-razrabotok)
@@ -27,12 +28,12 @@
 - 2026-11-24 · [OpenAI внедряет GPT-6.2 для платных подписчиков](https://scraimbled.github.io/news/165-openai-vnedryaet-gpt-6-2-dlya-platnykh-podpischikov)
 - 2026-11-24 · [Google изменила доступ к моделям Carbon и Hydrogen](https://scraimbled.github.io/news/164-google-izmenila-dostup-k-modelyam-carbon-i-hydrogen)
 - 2026-11-24 · [В ChatGPT появилась функция Dots для пользователей Pro в ЕС](https://scraimbled.github.io/news/161-v-chatgpt-poyavilas-funktsiya-dots-dlya-polzovateley-pro-v)
-- 2026-11-24 · [AlphaAnything выкатили RGBA-адаптеры для генерации картинок с прозрачным фоном](https://scraimbled.github.io/news/160-alphaanything-vykatili-rgba-adaptery-dlya-generatsii)
 
 [Все новости](https://scraimbled.github.io/news) · [Работает ли ИИ в России сейчас](https://scraimbled.github.io/status) · [Как оплатить из России](https://scraimbled.github.io/pay) · [Цены в рублях](https://scraimbled.github.io/prices) · [Нейросети без VPN](https://scraimbled.github.io/no-vpn) · [RSS](https://scraimbled.github.io/rss.xml)
 
 ## Latest in English
 
+- 2026-11-28 · [OpenAI filed a lawsuit against Apple over trade secrets](https://scraimbled.github.io/en/news/188-openai-filed-a-lawsuit-against-apple-over-trade-secrets)
 - 2026-11-28 · [Microsoft gives away free cybersecurity certificates](https://scraimbled.github.io/en/news/187-microsoft-gives-away-free-cybersecurity-certificates)
 - 2026-11-27 · [Claude banned a user for using it in China](https://scraimbled.github.io/en/news/184-claude-banned-a-user-for-using-it-in-china)
 - 2026-11-27 · [Chinese AI companies face development delays](https://scraimbled.github.io/en/news/183-chinese-ai-companies-face-development-delays)
@@ -42,6 +43,5 @@
 - 2026-11-26 · [OpenAI cuts GPT-6.2 limits by almost half](https://scraimbled.github.io/en/news/179-openai-cuts-gpt-6-2-limits-by-almost-half)
 - 2026-11-26 · [Sulfur 3 NSFW video model released on Hugging Face](https://scraimbled.github.io/en/news/178-sulfur-3-nsfw-video-model-released-on-hugging-face)
 - 2026-11-26 · [Rumors say OpenAI or Anthropic might have cracked RSA](https://scraimbled.github.io/en/news/175-rumors-say-openai-or-anthropic-might-have-cracked-rsa)
-- 2026-11-26 · [Bypassing Claude restrictions via CIS KYC documents](https://scraimbled.github.io/en/news/171-bypassing-claude-restrictions-via-cis-kyc-documents)
 
 [All news](https://scraimbled.github.io/en/news) · [RSS](https://scraimbled.github.io/en/rss.xml)
